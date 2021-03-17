@@ -1,7 +1,7 @@
 {
   "name": "fe-bootstrap",
   "version": "1.0.0",
-  "description": "",
+  "description": "Benvenuto nel repository di BIGrassi",
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack",
@@ -39,5 +39,13 @@
     "gsap": "^3.6.0",
     "moment": "^2.24.0",
     "moment-with-locales-es6": "^1.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigrassi/AstraZeneca.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bigrassi/AstraZeneca/issues"
+  },
+  "homepage": "https://github.com/bigrassi/AstraZeneca#readme"
 }
